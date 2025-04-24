@@ -1,0 +1,29 @@
+Scene 0052
+Caption:
+ "This 3D model presents a detailed interior layout of a traditional Japanese-style house. The architectural elements such as the Shoji (paper doors) and the elevated, thin-tiled floors can be observed clearly. The interior includes separate spaces for different activities like sleeping, dining, and relaxation, which reflects the harmony and balance in traditional Japanese aesthetics."
+Evaluation:
+ ✅ Correct Attributes: Interior layout, separate spaces for activities (2 points)
+ ❌ Incorrect Attributes: Traditional Japanese-style house (the scene does not prominently feature Shoji or Japanese-style elements), paper doors, thin-tiled floors (-3 points)
+Scores:
+Correctness Score (C. Score): 9
+Hallucination Score (H. Score): 3
+
+Scene 0053
+Caption:
+ "This is a 3D model of a residential house featuring four distinctive, well-proportioned square windows. It also showcases two small, neatly designed gates that add an element of elegance to its architectural facade. The model suggests it could be a typical suburban home, embodying simple, yet classic architectural elements."
+Evaluation:
+ ✅ Correct Attributes: Residential house (1 point)
+ ❌ Incorrect Attributes: Four distinctive windows (not visible), two small gates (not present), architectural elegance (-3 points)
+Scores:
+Correctness Score (C. Score): 1
+Hallucination Score (H. Score): 3
+
+Scene 0054
+Caption:
+ "The 3D model depicts a well-structured house with multiple rooms, each filled with various furniture pieces. The house exudes a traditional aura, and the furniture varies in type and number, suggesting diverse functionalities and usage patterns."
+Evaluation:
+ ✅ Correct Attributes: House with multiple rooms, furniture present (2 points)
+ ❌ Incorrect Attributes: Traditional aura (no clear stylistic elements suggesting tradition) (-1 point)
+Scores:
+Correctness Score (C. Score): 2
+Hallucination Score (H. Score): 1

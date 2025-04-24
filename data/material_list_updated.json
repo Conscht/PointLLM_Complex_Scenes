@@ -1,0 +1,994 @@
+{
+    "scene0000": {
+        "trash can": "plastic",
+        "refrigerator": "metal",
+        "pillow": "fabric",
+        "window": "glass",
+        "table": "wood",
+        "toilet": "ceramic",
+        "bed": "fabric",
+        "sink": "ceramic",
+        "tv": "plastic"
+    },
+    "scene0001": {
+        "window": "glass",
+        "table": "wood",
+        "sofa": "fabric"
+    },
+    "scene0002": {
+        "trash can": "plastic",
+        "refrigerator": "metal",
+        "pillow": "fabric",
+        "window": "glass",
+        "lamp": "metal",
+        "table": "wood",
+        "chair": "wood",
+        "couch": "fabric",
+        "microwave": "metal",
+        "tv": "plastic"
+    },
+    "scene0003": {
+        "microwave": "metal",
+        "trash can": "plastic",
+        "refrigerator": "metal",
+        "sink": "ceramic"
+    },
+    "scene0004": {
+        "window": "glass",
+        "table": "wood",
+        "chair": "wood"
+    },
+    "scene0005": {
+        "table": "wood",
+        "chair": "metal",
+        "tv": "plastic"
+    },
+    "scene0006": {
+        "trash can": "plastic",
+        "pillow": "fabric",
+        "lamp": "metal",
+        "mirror": "glass",
+        "table": "wood",
+        "backpack": "plastic",
+        "bed": "fabric",
+        "chair": "wood",
+        "desk": "wood",
+        "tv": "plastic"
+    },
+    "scene0007": {
+        "trash can": "plastic"
+    },
+    "scene0008": {
+        "lamp": "metal",
+        "window": "glass",
+        "pillow": "fabric",
+        "table": "wood",
+        "chair": "metal",
+        "couch": "metal",
+        "tv": "plastic"
+    },
+    "scene0009": {
+        "trash can": "plastic",
+        "mirror": "glass",
+        "sink": "ceramic"
+    },
+    "scene0010": {
+        "table": "wood",
+        "monitor": "plastic",
+        "chair": "fabric",
+        "desk": "wood",
+        "whiteboard": "glass",
+        "backpack": "fabric"
+    },
+    "scene0011": {
+        "window": "glass",
+        "kitchen cabinets": "wood",
+        "refrigerator": "metal",
+        "kitchen counter": "stone",
+        "table": "wood",
+        "chair": "wood",
+        "sink": "ceramic",
+        "tv": "plastic"
+    },
+    "scene0012": {
+        "window": "glass",
+        "table": "wood",
+        "sofa": "fabric",
+        "bookshelf": "wood",
+        "lamp": "metal",
+        "picture": "glass"
+    },
+    "scene0013": {
+        "table": "wood",
+        "chair": "leather",
+        "carpet": "fabric",
+        "sofa": "fabric"
+    },
+    "scene0014": {
+        "toilet": "ceramic",
+        "mirror": "glass",
+        "sink": "ceramic",
+        "paper towel dispenser": "plastic",
+        "trash can": "plastic"
+    },
+    "scene0015": {
+        "window": "glass",
+        "table": "wood",
+        "chair": "wood",
+        "backpack": "fabric"
+    },
+    "scene0016": {
+        "pillow": "fabric",
+        "couch": "fabric",
+        "microwave": "metal",
+        "shelf": "wood",
+        "lamp": "metal",
+        "picture": "glass"
+    },
+    "scene0017": {
+        "window": "glass",
+        "table": "wood",
+        "chair": "fabric",
+        "bookshelf": "wood",
+        "monitor": "plastic"
+    },
+    "scene0018": {
+        "table": "wood",
+        "printer": "plastic",
+        "chair": "fabric",
+        "copier": "plastic",
+        "trash can": "plastic"
+    },
+    "scene0019": {
+        "lamp": "metal",
+        "trash can": "plastic",
+        "chair": "fabric",
+        "couch": "fabric"
+    },
+    "scene0020": {
+        "window": "glass",
+        "table": "wood",
+        "sofa": "fabric",
+        "chair": "wood",
+        "bookshelf": "wood"
+    },
+    "scene0021": {
+        "chair": "wood",
+        "table": "wood",
+        "sofa": "fabric",
+        "window": "glass",
+        "lamp": "metal"
+    },
+    "scene0022": {
+        "pillow": "fabric",
+        "sofa": "fabric",
+        "table": "wood",
+        "carpet": "fabric",
+        "window": "glass"
+    },
+    "scene0023": {
+        "sink": "ceramic",
+        "mirror": "glass",
+        "toilet": "ceramic",
+        "bathtub": "ceramic",
+        "trash can": "plastic"
+    },
+    "scene0024": {
+        "desk": "wood",
+        "monitor": "plastic",
+        "chair": "wood",
+        "lamp": "metal",
+        "window": "glass"
+    },
+    "scene0025": {
+        "sofa": "fabric",
+        "table": "wood",
+        "chair": "wood",
+        "window": "glass",
+        "carpet": "fabric"
+    },
+    "scene0026": {
+        "refrigerator": "metal",
+        "microwave": "metal",
+        "sink": "ceramic",
+        "window": "glass"
+    },
+    "scene0027": {
+        "toilet": "ceramic",
+        "sink": "ceramic",
+        "mirror": "glass",
+        "trash can": "plastic",
+        "bathtub": "ceramic"
+    },
+    "scene0028": {
+        "bed": "fabric",
+        "pillow": "fabric",
+        "window": "glass",
+        "desk": "wood",
+        "lamp": "metal"
+    },
+    "scene0029": {
+        "table": "wood",
+        "chair": "wood",
+        "sofa": "fabric",
+        "lamp": "metal",
+        "window": "glass"
+    },
+    "scene0030": {
+        "tv": "plastic",
+        "bookshelf": "wood",
+        "carpet": "fabric",
+        "chair": "wood",
+        "window": "glass"
+    },
+    "scene0031": {
+        "desk": "wood",
+        "monitor": "plastic",
+        "lamp": "metal",
+        "chair": "wood",
+        "window": "glass"
+    },
+    "scene0032": {
+        "table": "wood",
+        "chair": "wood",
+        "sofa": "fabric",
+        "pillow": "fabric",
+        "window": "glass"
+    },
+    "scene0033": {
+        "sink": "ceramic",
+        "mirror": "glass",
+        "toilet": "ceramic",
+        "trash can": "plastic",
+        "bathtub": "ceramic"
+    },
+    "scene0034": {
+        "bed": "fabric",
+        "pillow": "fabric",
+        "window": "glass",
+        "desk": "wood",
+        "lamp": "metal"
+    },
+    "scene0035": {
+        "chair": "wood",
+        "table": "wood",
+        "sofa": "fabric",
+        "lamp": "metal",
+        "window": "glass"
+    },
+    "scene0036": {
+        "bookshelf": "wood",
+        "desk": "wood",
+        "monitor": "plastic",
+        "chair": "wood",
+        "window": "glass"
+    },
+    "scene0037": {
+        "table": "wood",
+        "chair": "wood",
+        "sofa": "fabric",
+        "pillow": "fabric",
+        "window": "glass"
+    },
+    "scene0038": {
+        "sink": "ceramic",
+        "mirror": "glass",
+        "toilet": "ceramic",
+        "trash can": "plastic",
+        "bathtub": "ceramic"
+    },
+    "scene0039": {
+        "bed": "fabric",
+        "pillow": "fabric",
+        "window": "glass",
+        "desk": "wood",
+        "lamp": "metal"
+    },
+    "scene0040": {
+        "table": "wood",
+        "chair": "wood",
+        "sofa": "fabric",
+        "lamp": "metal",
+        "window": "glass"
+    },
+    "scene0041": {
+        "tv": "plastic",
+        "bookshelf": "wood",
+        "carpet": "fabric",
+        "chair": "wood",
+        "window": "glass"
+    },
+    "scene0042": {
+        "desk": "wood",
+        "monitor": "plastic",
+        "lamp": "metal",
+        "chair": "wood",
+        "window": "glass"
+    },
+    "scene0043": {
+        "table": "wood",
+        "chair": "wood",
+        "sofa": "fabric",
+        "pillow": "fabric",
+        "window": "glass"
+    },
+    "scene0044": {
+        "sink": "ceramic",
+        "mirror": "glass",
+        "toilet": "ceramic",
+        "trash can": "plastic",
+        "bathtub": "ceramic"
+    },
+    "scene0045": {
+        "bed": "fabric",
+        "pillow": "fabric",
+        "window": "glass",
+        "desk": "wood",
+        "lamp": "metal"
+    },
+    "scene0046": {
+        "table": "wood",
+        "chair": "wood",
+        "sofa": "fabric",
+        "lamp": "metal",
+        "window": "glass"
+    },
+    "scene0047": {
+        "bookshelf": "wood",
+        "desk": "wood",
+        "monitor": "plastic",
+        "chair": "wood",
+        "window": "glass"
+    },
+    "scene0048": {
+        "table": "wood",
+        "chair": "wood",
+        "sofa": "fabric",
+        "pillow": "fabric",
+        "window": "glass"
+    },
+    "scene0049": {
+        "sink": "ceramic",
+        "mirror": "glass",
+        "toilet": "ceramic",
+        "trash can": "plastic",
+        "bathtub": "ceramic"
+        },
+    "scene0050": {
+    "chair": "wood",
+    "desk": "wood",
+    "couch": "fabric",
+    "lamp": "metal",
+    "bagpack": "fabric"
+},
+"scene0051": {
+    "pillow": "fabric",
+    "mirror": "glass",
+    "table": "wood",
+    "bookshelf": "wood",
+    "toilet": "ceramic",
+    "bed": "fabric",
+    "chair": "wood",
+    "sink": "ceramic",
+    "monitor": "plastic"
+},
+"scene0052": {
+    "window": "glass"
+},
+"scene0053": {
+    "window": "glass",
+    "coffee table": "wood",
+    "couch": "fabric"
+},
+"scene0054": {
+    "trash can": "plastic",
+    "pillow": "fabric",
+    "bathtub": "ceramic",
+    "window": "glass",
+    "lamp": "metal",
+    "table": "wood",
+    "bookshelf": "wood",
+    "toilet": "ceramic",
+    "chair": "wood",
+    "sink": "ceramic",
+    "couch": "fabric",
+    "desk": "wood",
+    "monitor": "plastic"
+},
+"scene0055": {
+    "window": "glass",
+    "bed": "fabric",
+    "desk": "wood"
+},
+"scene0056": {
+    "window": "glass",
+    "trash can": "plastic",
+    "monitor": "plastic",
+    "table": "wood",
+    "chair": "plastic"
+},
+"scene0057": {
+    "lamp": "metal",
+    "window": "glass",
+    "table": "wood",
+    "chair": "plastic"
+},
+"scene0058": {
+    "trash can": "plastic",
+    "window": "glass",
+    "table": "wood",
+    "chair": "plastic",
+    "desk": "wood",
+    "monitor": "plastic"
+},
+"scene0059": {
+    "trash can": "plastic",
+    "microwave": "metal",
+    "bagpack": "fabric",
+    "table": "wood",
+    "chair": "wood",
+    "couch": "fabric"
+    },
+
+    "scene0060": {
+        "trash can": "plastic",
+        "bagpack": "fabric",
+        "monitor": "plastic"
+    },
+    "scene0061": {
+        "pillow": "fabric",
+        "table": "wood",
+        "chair": "wood",
+        "couch": "fabric",
+        "tv": "plastic"
+    },
+    "scene0062": {
+        "trash can": "plastic",
+        "toilet": "ceramic",
+        "mirror": "glass",
+        "sink": "ceramic"
+    },
+    "scene0063": {
+        "refrigerator": "metal",
+        "microwave": "metal",
+        "table": "wood",
+        "chair": "wood"
+    },
+    "scene0064": {
+        "bookshelf": "wood",
+        "couch": "fabric"
+    },
+    "scene0065": {
+        "toilet": "ceramic",
+        "mirror": "glass",
+        "sink": "ceramic",
+        "bathtub": "ceramic"
+    },
+    "scene0066": {
+        "trash can": "plastic",
+        "table": "wood",
+        "chair": "plastic"
+    },
+    "scene0067": {
+        "trash can": "plastic",
+        "toilet": "ceramic",
+        "mirror": "glass",
+        "sink": "ceramic"
+    },
+    "scene0068": {
+        "trash can": "plastic",
+        "refrigerator": "metal",
+        "microwave": "metal",
+        "sink": "ceramic",
+        "table": "wood",
+        "stool": "wood"
+    },
+    "scene0069": {
+        "lamp": "metal",
+        "table": "wood"
+    },
+    "scene0070": {
+        "bed": "fabric",
+        "table": "wood",
+        "monitor": "plastic"
+    },
+    "scene0071": {
+        "table": "wood",
+        "chair": "metal"
+    },
+    "scene0072": {
+        "bed": "fabric",
+        "window": "glass",
+        "shelf": "wood"
+    },
+    "scene0073": {
+        "bed": "fabric",
+        "table": "wood",
+        "chair": "wood",
+        "bookshelf": "wood"
+    },
+    "scene0074": {
+        "pillow": "fabric",
+        "bed": "fabric",
+        "chair": "wood"
+    },
+    "scene0075": {
+        "table": "wood",
+        "chair": "metal",
+        "tv": "glass"
+    },
+    "scene0076": {
+        "table": "wood",
+        "chair": "metal",
+        "refrigerator": "metal",
+        "microwave": "metal"
+    },
+    "scene0077": {
+        "table": "wood",
+        "shelf": "wood"
+    },
+    "scene0078": {
+        "bed": "fabric",
+        "chair": "wood",
+        "desk": "wood"
+    },
+    "scene0079": {
+        "bookshelf": "wood",
+        "table": "wood",
+        "chair": "metal",
+        "monitor": "plastic"
+    },
+    "scene0080": {
+        "trash can": "plastic",
+        "mirror": "glass",
+        "toilet": "ceramic",
+        "sink": "ceramic"
+    },
+    "scene0081": {
+        "table": "wood",
+        "couch": "wood"
+    },
+    "scene0082": {
+        "table": "wood",
+        "chair": "wood"
+    },
+    "scene0083": {
+        "window": "glass",
+        "toilet": "ceramic",
+        "mirror": "glass",
+        "bathtub": "ceramic",
+        "sink": "ceramic"
+    },
+    "scene0084": {
+        "trash can": "plastic",
+        "window": "glass",
+        "mirror": "glass",
+        "toilet": "ceramic",
+        "sink": "ceramic"
+    },
+    "scene0085": {
+        "trash can": "plastic",
+        "pillow": "fabric",
+        "lamp": "wood",
+        "backpack": "wood",
+        "bed": "fabric",
+        "chair": "wood",
+        "tv": "plastic"
+    },
+    "scene0086": {
+        "window": "glass",
+        "toilet": "ceramic",
+        "trash can": "plastic",
+        "mirror": "glass",
+        "sink": "ceramic"
+    },
+    "scene0087": {
+        "chair": "wood",
+        "couch": "wood"
+    },
+    "scene0088": {
+        "window": "glass",
+        "trash can": "plastic",
+        "table": "wood",
+        "chair": "wood"
+    },
+    "scene0089": {
+        "window": "glass",
+        "trash can": "plastic",
+        "monitor": "plastic",
+        "chair": "wood",
+        "bookshelf": "wood",
+        "desk": "wood"
+    },
+    "scene0090": {
+        "toilet": "ceramic",
+        "mirror": "glass",
+        "sink": "ceramic"
+    },
+    "scene0091": {
+        "pillow": "fabric",
+        "mirror": "glass",
+        "chair": "wood",
+        "couch": "fabric",
+        "desk": "wood",
+        "tv": "plastic"
+    },
+    "scene0092": {
+        "trash can": "plastic",
+        "pillow": "fabric",
+        "window": "glass",
+        "lamp": "metal",
+        "bookshelf": "plastic",
+        "backpack": "plastic",
+        "bed": "fabric",
+        "chair": "wood",
+        "desk": "wood",
+        "monitor": "metal"
+    },
+    "scene0093": {
+        "window": "glass",
+        "trash can": "plastic",
+        "monitor": "metal",
+        "table": "wood",
+        "chair": "wood"
+    },
+    "scene0094": {
+        "window": "glass",
+        "refrigerator": "plastic",
+        "sink": "ceramic"
+    },
+    "scene0095": {
+        "window": "glass",
+        "monitor": "metal",
+        "table": "wood",
+        "chair": "wood"
+    },
+    "scene0096": {
+        "window": "glass",
+        "mirror": "glass",
+        "toilet": "ceramic",
+        "sink": "ceramic"
+    },
+    "scene0097": {
+        "trash can": "plastic",
+        "refrigerator": "metal",
+        "backpack": "metal",
+        "sink": "ceramic",
+        "microwave": "metal"
+    },
+    "scene0098": {
+        "trash can": "plastic",
+        "window": "glass",
+        "bookshelf": "plastic",
+        "chair": "wood",
+        "desk": "wood",
+        "monitor": "metal"
+    },
+    "scene0099": {
+        "table": "wood",
+        "chair": "wood"
+    },
+    "scene0100": {
+        "trash can": "plastic",
+        "bathtub": "metal",
+        "window": "glass",
+        "mirror": "glass",
+        "toilet": "ceramic",
+        "sink": "ceramic"
+    },
+    "scene0101": {
+        "trash can": "plastic",
+        "refrigerator": "metal",
+        "pillow": "fabric",
+        "bathtub": "ceramic",
+        "window": "glass",
+        "mirror": "glass",
+        "table": "wood",
+        "backpack": "plastic",
+        "toilet": "ceramic",
+        "bed": "fabric",
+        "chair": "wood",
+        "sink": "ceramic",
+        "couch": "fabric",
+        "desk": "wood",
+        "microwave": "metal",
+        "tv": "plastic"
+    },
+    "scene0102": {
+        "window": "glass",
+        "chair": "metal"
+    },
+    "scene0103": {
+        "table": "wood",
+        "chair": "wood"
+    },
+    "scene0104": {
+        "trash can": "plastic"
+    },
+    "scene0105": {
+        "window": "glass",
+        "toilet": "ceramic",
+        "trash can": "plastic",
+        "bathtub": "ceramic"
+    },
+    "scene0106": {
+        "window": "glass",
+        "trash can": "plastic",
+        "monitor": "metal",
+        "table": "wood",
+        "chair": "wood",
+        "sink": "ceramic",
+        "couch": "fabric",
+        "tv": "plastic"
+    },
+    "scene0107": {
+        "lamp": "metal",
+        "backpack": "plastic",
+        "bed": "fabric",
+        "chair": "wood",
+        "desk": "wood",
+        "tv": "plastic"
+    },
+    "scene0108": {
+        "trash can": "plastic",
+        "bookshelf": "plastic",
+        "backpack": "plastic",
+        "chair": "wood",
+        "desk": "wood",
+        "tv": "plastic"
+    },
+    "scene0109": {
+        "trash can": "plastic"
+    },
+    "scene0110": {
+        "recycling bin": "plastic",
+        "window": "glass",
+        "trash can": "plastic",
+        "backpack": "fabric",
+        "radiator": "metal",
+        "bed": "fabric",
+        "chair": "wood",
+        "desk": "wood",
+        "shelf": "wood"
+    },
+    "scene0111": {
+        "trash can": "plastic",
+        "cabinet": "wood",
+        "refrigerator": "metal",
+        "stove": "metal",
+        "table": "wood",
+        "sink": "ceramic",
+        "couch": "fabric",
+        "microwave": "metal",
+        "tv": "plastic"
+    },
+    "scene0112": {
+        "toilet": "ceramic",
+        "paper towel dispenser": "metal",
+        "toilet paper dispenser": "plastic",
+        "mirror": "glass",
+        "trash bin": "plastic",
+        "sink": "ceramic"
+    },
+    "scene0113": {
+        "coffee table": "wood",
+        "sofa chair": "fabric"
+    },
+    "scene0114": {
+        "window": "glass",
+        "telephone": "plastic",
+        "plant": "organic",
+        "cabinet": "wood",
+        "trash can": "plastic",
+        "monitor": "plastic",
+        "table": "wood",
+        "chair": "wood",
+        "desk": "wood"
+    },
+    "scene0115": {
+        "cabinet": "wood",
+        "pool table": "wood",
+        "chair": "wood",
+        "foosball table": "wood"
+    },
+    "scene0116": {
+        "toilet paper": "paper",
+        "toilet": "ceramic",
+        "trash can": "plastic",
+        "sink": "ceramic",
+        "bathtub": "ceramic"
+    },
+    "scene0117": {
+        "trash can": "plastic",
+        "refrigerator": "metal",
+        "table": "wood",
+        "chair": "wood",
+        "sink": "ceramic",
+        "microwave": "metal",
+        "shelf": "wood"
+    },
+    "scene0118": {
+        "coffee table": "wood",
+        "chair": "wood"
+    },
+"scene0119": {
+        "toilet": "ceramic",
+        "mirror": "glass",
+        "sink": "ceramic",
+        "bathtub": "ceramic"
+    },
+    "scene0120": {
+        "trash can": "plastic"
+    },
+    "scene0121": {
+        "window": "glass",
+        "mirror": "glass"
+    },
+    "scene0122": {
+        "window": "glass",
+        "table": "wood",
+        "chair": "plastic"
+    },
+    "scene0123": {
+        "table": "wood",
+        "chair": "metal"
+    },
+    "scene0124": {
+        "toilet": "ceramic",
+        "trash can": "plastic",
+        "mirror": "glass",
+        "sink": "ceramic"
+    },
+    "scene0125": {
+        "table": "wood"
+    },
+    "scene0126": {
+        "trash can": "plastic",
+        "window": "glass",
+        "bookshelf": "wood",
+        "chair": "plastic",
+        "desk": "wood",
+        "monitor": "glass/plastic"
+    },
+    "scene0127": {
+        "window": "glass",
+        "trash can": "plastic",
+        "bed": "wood",
+        "chair": "plastic",
+        "desk": "wood"
+    },
+    "scene0128": {
+        "lamp": "metal",
+        "pillow": "fabric",
+        "couch": "fabric"
+    },
+    "scene0129": {
+        "window": "glass",
+        "table": "wood",
+        "chair": "wood"
+    },
+    "scene0130": {
+        "window": "glass",
+        "monitor": "plastic/glass",
+        "table": "wood",
+        "chair": "wood"
+    },
+    "scene0131": {
+        "chair": "wood",
+        "couch": "fabric",
+        "desk": "wood",
+        "monitor": "plastic/glass"
+    },
+    "scene0132": {
+        "table": "wood",
+        "chair": "fabric/metal",
+        "couch": "fabric",
+        "tv": "plastic/glass"
+    },
+    "scene0133": {
+        "chair": "wood"
+    },
+    "scene0134": {
+        "window": "glass"
+    },
+    "scene0135": {
+        "toilet": "ceramic",
+        "mirror": "glass",
+        "sink": "ceramic"
+    },
+    "scene0136": {
+        "trash can": "plastic",
+        "table": "wood"
+    },
+    "scene0137": {
+        "trash can": "plastic",
+        "pillow": "fabric",
+        "lamp": "metal",
+        "bed": "wood",
+        "desk": "wood",
+        "tv": "plastic/glass"
+    },
+    "scene0138": {
+        "window": "glass",
+        "table": "wood",
+        "chair": "plastic",
+        "desk": "wood",
+        "monitor": "plastic/glass"
+    },
+    "scene0139": {
+        "trash can": "plastic",
+        "table": "wood",
+        "sink": "ceramic"
+    },
+    "scene0140": {
+        "window": "glass",
+        "trash can": "plastic",
+        "table": "wood"
+    },
+    "scene0141": {
+        "pillow": "fabric",
+        "window": "glass",
+        "chair": "wood",
+        "couch": "fabric",
+        "desk": "wood",
+        "monitor": "plastic/glass"
+    },
+    "scene0142": {
+        "trash can": "plastic",
+        "window": "glass",
+        "table": "wood",
+        "chair": "plastic",
+        "desk": "wood",
+        "monitor": "plastic/glass"
+    },
+    "scene0143": {
+        "lamp": "metal",
+        "pillow": "fabric",
+        "bed": "wood",
+        "chair": "wood"
+    },
+    "scene0144": {
+        "pillow": "fabric",
+        "window": "glass",
+        "lamp": "metal",
+        "table": "wood",
+        "bed": "wood",
+        "chair": "wood"
+    },
+    "scene0145": {
+        "table": "wood",
+        "chair": "wood",
+        "couch": "fabric"
+    },
+    "scene0146": {
+        "toilet": "ceramic",
+        "trash can": "plastic",
+        "mirror": "glass",
+        "sink": "ceramic"
+    },
+    "scene0147": {
+        "lamp": "metal",
+        "trash can": "plastic",
+        "pillow": "fabric",
+        "bed": "wood",
+        "tv": "plastic/glass"
+    },
+    "scene0148": {
+        "couch": "fabric"
+    },
+    "scene0149": {
+        "window": "glass",
+        "trash can": "plastic",
+        "refrigerator": "metal",
+        "table": "wood",
+        "chair": "plastic",
+        "sink": "ceramic",
+        "microwave": "metal"
+    },
+    "scene0150": {
+        "window": "glass",
+        "table": "wood",
+        "chair": "wood"
+    }
+}
+

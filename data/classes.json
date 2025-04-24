@@ -1,0 +1,23 @@
+{
+    "chair": 84,
+    "table": 71,
+    "couch": 35,
+    "bed": 22,
+    "bagpack": 27,
+    "bookshelf": 15,
+    "desk": 33,
+    "refrigerator": 16,
+    "microwave": 18,
+    "pillow": 27,
+    "window": 72,
+    "tv": 22,
+    "monitor": 25,
+    "lamp": 19,
+    "sink": 39,
+    "toilet": 27,
+    "bathtub": 11,
+    "mirror": 26,
+    "carpet": 17,
+    "trash can": 67
+}
+

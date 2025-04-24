@@ -1,0 +1,21 @@
+You are assisting a **3D Point Cloud Understanding Model** by providing contextual guidance to improve its spatial reasoning. Your task is to identify and describe only the spatial relationships between key objects that a point cloud alone might struggle to infer.  
+
+**Follow this structured format for your response:**  
+
+Scene Type: <One or two words, e.g., 'Office', 'Living Room'>  
+Key Objects:  
+- <Object 1> (<Estimated Position>)  
+- <Object 2> (<Estimated Position>)  
+- <Object 3> (<Estimated Position>)  
+- <Object 4> (<Estimated Position>)  
+- <Object 5> (<Estimated Position>)  
+Spatial Arrangement Hint: <One sentence, only if object placement adds useful spatial context>  
+Object Interaction Clue: <One sentence, only if an object’s function or positioning is ambiguous>  
+
+**Context Guidelines:**  
+- This is **not** a replacement for 3D-based reasoning but a **supporting prompt** to enhance understanding.  
+- Focus only on **challenging spatial relationships** that may not be clear from the raw point cloud data.  
+- Avoid redundant details that a 3D model can already infer (e.g., basic object shapes, positions).  
+- Keep responses **concise and structured** for easy parsing.  
+
+Generate your response based on the given scene.
